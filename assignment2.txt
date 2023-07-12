@@ -21,8 +21,17 @@
     git checkout main
 
 8- Show the author of every line in file1.txt.
-    git blame
+    git blame assignment2
 
 9- Create a tag (v1.0) for the last commit. Show the history using the one-liner option and note the tag you just created.
+    git tag v1.0
+    git log --oneline
+    git tag
 
 10- Delete the tag.
+    git tag -d v1.0
+
+
+
+    Link: https://github.com/savanprajapati/Assignment.git
+    
