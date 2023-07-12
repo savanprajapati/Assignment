@@ -1,5 +1,5 @@
 1- Make another commit. Now you should have two commits in your repo. 
-
+    
 2- Show the changes in the last 2 commits.
 
 3- Show all commits made by yourself. Use the one-liner option.
