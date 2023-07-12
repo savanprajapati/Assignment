@@ -21,7 +21,7 @@
     git checkout main
 
 8- Show the author of every line in file1.txt.
-
+    git blame
 
 9- Create a tag (v1.0) for the last commit. Show the history using the one-liner option and note the tag you just created.
 
