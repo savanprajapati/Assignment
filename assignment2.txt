@@ -1,6 +1,9 @@
 1- Make another commit. Now you should have two commits in your repo. 
+
 2- Show the changes in the last 2 commits.
+
 3- Show all commits made by yourself. Use the one-liner option.
+
 4- Show all commits with GUI in their message.
 
 5- Show all commits with changes to file1.txt. Include the number of lines added/ removed.
