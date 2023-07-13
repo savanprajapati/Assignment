@@ -56,4 +56,6 @@ Rebase the new branch on top of master.
 View the graph of branches again. Note that the divergence is gone.
 Do a fast-forward merge to bring the changes in the bugfix branch into master.
     git switch -C bugfix/login
-    
+    git add .
+    git commit -m "message"
+    git 
