@@ -7,13 +7,14 @@
     git branch
 
 3- Update file1.txt in the current branch (feature/login) and make a new commit.
-    
+    git add .
+    git commit -m "assignment 3"
 
 4- Show the commits across all branches.
-
+    git log --oneline --all
 
 5- Switch back to the master branch. Show the commits in the feature branch that don’t exist on master.
-
+    git switch main
 
 6- View the differences between master and feature/login. 
 
