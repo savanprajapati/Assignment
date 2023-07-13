@@ -58,4 +58,12 @@ Do a fast-forward merge to bring the changes in the bugfix branch into master.
     git switch -C bugfix/login
     git add .
     git commit -m "message"
-    git 
+    git switch main
+    git add .
+    git commit -m "message"
+    git log --graph --oneline --all
+    git rebase bugfix/login
+    git log --graph --oneline --all
+    git switch bugfix
+    git merge main
+    
