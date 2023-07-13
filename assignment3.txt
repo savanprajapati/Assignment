@@ -27,10 +27,10 @@
     git branch --no-merged 
 
 9- Delete the feature branch.
-    
+    git branch -D feature/login 
 
 10- Create a new branch called feature/logout. On this branch, write blue to file1.txt and make a commit.
-
+    
 
 Switch back to master, write green to file1.txt and make another commit.
 
