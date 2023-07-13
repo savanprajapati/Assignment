@@ -33,6 +33,8 @@
 Switch back to master, write green to file1.txt and make another commit.
 Try to merge your feature branch into master. You’ll see a conflict. Resolve the conflict by accepting both changes. When you’re done merging, delete the new branch.
     git swtich -C feature/logout
+    git add .      
+    git commit -m"massage"
     
 
 
